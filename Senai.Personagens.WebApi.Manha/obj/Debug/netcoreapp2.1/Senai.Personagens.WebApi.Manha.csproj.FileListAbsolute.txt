@@ -1,0 +1,11 @@
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.deps.json
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.runtimeconfig.json
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.runtimeconfig.dev.json
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.dll
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.csprojAssemblyReference.cache
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.RazorAssemblyInfo.cache
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.RazorAssemblyInfo.cs
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.AssemblyInfo.cs
+C:\Users\fic\source\repos\Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApi.Manha.RazorTargetAssemblyInfo.cache

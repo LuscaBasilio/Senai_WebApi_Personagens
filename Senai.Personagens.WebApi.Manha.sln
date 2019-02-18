@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Personagens.WebApi.Manha", "Senai.Personagens.WebApi.Manha\Senai.Personagens.WebApi.Manha.csproj", "{B0E9BBBA-5A64-44E4-A6CB-874DF8DF8316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E9BBBA-5A64-44E4-A6CB-874DF8DF8316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E9BBBA-5A64-44E4-A6CB-874DF8DF8316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E9BBBA-5A64-44E4-A6CB-874DF8DF8316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E9BBBA-5A64-44E4-A6CB-874DF8DF8316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9EB337C-7229-4F39-88F3-194F5F4FCDBD}
+	EndGlobalSection
+EndGlobal
